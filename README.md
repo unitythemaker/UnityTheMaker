@@ -4,7 +4,7 @@
 
 ### 📫 cowsay (Reach me via:)
 E-Mail: unity.the.maker+contact@gmail.com<br/>
-Discord: Unitility#6426<br/>
+Discord: UnityTheMaker#6426<br/>
 Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 
 
