@@ -4,7 +4,7 @@
 
 ### 📫 cowsay (Reach me via:)
 E-Mail: unity.the.maker+contact@gmail.com<br/>
-Discord: UnityTheMaker#6426<br/>
+Discord: UnityTheMaker#0001<br/>
 Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
 
