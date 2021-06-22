@@ -5,7 +5,7 @@
 ### 📫 cowsay (Reach me via:)
 Portfolio: <a href="https://unitythemaker.cyou/">unitythemaker.cyou</a><br />
 E-Mail: unity.the.maker@gmail.com<br/>
-Discord: UnityTheMaker#0001<br/>
+Discord: UnityTheMaker#8669<br/>
 Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
 
