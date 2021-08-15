@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Redoya.NET](https://redoya.net)
 
-- 🌱 I’m currently learning **React, Vagrant, ElasticSearch, Jenkins, Puppeteer**
+- 🌱 I’m currently learning **React, Vagrant, ElasticSearch, Jenkins, Puppeteer, PWA**
 
 - 👨‍💻 All of my projects are available at [https://unity.themaker.cyou](https://unity.themaker.cyou)
 
