@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halil Tezcan "UnityTheMaker" KARABULUT</h1>
-<h3 align="center">A senior fullstack developer from Turkey.</h3>
+<h3 align="center">A senior fullstack web developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
 
-- 🔭 I’m currently working at [Redoya.NET](https://redoya.net)
+- 🔭 I’m currently working on some private enterprise projects also freelancing.
 
 - 🌱 I’m currently learning **React, Vagrant, ElasticSearch, Jenkins, Puppeteer, PWA**
 
