@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **GraphQL, NestJS, micro-services, AWS, serverless, Svelte, Vue...**
 
-- 📄 Know about my experiences [https://unity.themaker.cyou/resume](https://unity.themaker.cyou/resume)
+- 📄 Know about my experiences [https://unity.themaker.cyou/resume.pdf](https://unity.themaker.cyou/resume.pdf)
 
 - ⚡ Fun fact **I'm an organism that can turn pizza and cafeine into software.**
 
