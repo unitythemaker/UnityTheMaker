@@ -18,9 +18,8 @@
 - ⚡ Fun fact **I'm an organism that can turn pizza and cafeine into software.**
 
 ### 📫 Reach me via:
-Portfolio: <a href="https://unitythemaker.cyou/">unitythemaker.cyou</a><br />
+Portfolio (OUTDATED): <a href="https://unitythemaker.cyou/">unitythemaker.cyou</a><br />
 E-Mail: unity.the.maker@gmail.com / unity@themaker.cyou<br/>
-Discord: UnityTheMaker#8669<br/>
 Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
 <!-- Matrix: <a href="https://matrix.to/#/@themaker:unitythemaker.cyou">@themaker:unitythemaker.cyou</a><br /> -->
