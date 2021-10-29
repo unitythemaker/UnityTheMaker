@@ -20,7 +20,7 @@
 ### 📫 Reach me via:
 Portfolio (OUTDATED): <a href="https://unitythemaker.cyou/">unitythemaker.cyou</a><br />
 E-Mail: unity.the.maker@gmail.com / unity@themaker.cyou<br/>
-Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
+Instagram (no longer used): <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
 <!-- Matrix: <a href="https://matrix.to/#/@themaker:unitythemaker.cyou">@themaker:unitythemaker.cyou</a><br /> -->
 
