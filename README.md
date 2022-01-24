@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some private enterprise projects also freelancing.
 
-- 🌱 I’m currently learning **React, Vagrant, ElasticSearch**
+- 🌱 I’m currently learning **Rust, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://unity.themaker.cyou](https://unity.themaker.cyou)
 
