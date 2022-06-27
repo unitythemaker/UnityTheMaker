@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil Tezcan "UnityTheMaker" KARABULUT</h1>
-<h3 align="center">A senior fullstack web developer from Turkey.</h3>
+<h3 align="center">A software developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
 
