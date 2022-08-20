@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://unity.themaker.cyou](https://unity.themaker.cyou)
 
-- 📝 I regularly write articles on [https://unity.themaker.blog](https://unity.themaker.blog)
-
 - 💬 Ask me about **GraphQL, NestJS, micro-services, AWS, serverless, Svelte, Vue...**
 
 - 📄 Know about my experiences [https://unity.themaker.cyou/resume.pdf](https://unity.themaker.cyou/resume.pdf)
