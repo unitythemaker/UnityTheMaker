@@ -3,20 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
 
-- 🔭 I’m currently working on some private enterprise projects also freelancing.
+- 🔭 I’m currently working on [Middlewar Cloud](https://www.middlewar.cloud) projects also freelancing.
 
-- 🌱 I’m currently learning **Go, Cloud Ops**
+- 🌱 I’m currently learning **about marketing**
 
 - 👨‍💻 All of my projects are available at [https://unity.themaker.cyou](https://unity.themaker.cyou)
 
-- 💬 Ask me about **GraphQL, NestJS, micro-services, AWS, serverless, Svelte, Vue...**
+- 💬 Ask me about **Cloud, DevOps, Back-End, JavaScript...**
 
 - 📄 Know about my experiences [https://unity.themaker.cyou/resume.pdf](https://unity.themaker.cyou/resume.pdf)
 
 - ⚡ Fun fact **I'm an organism that can turn pizza and cafeine into software.**
 
 ### 📫 Reach me via:
-Portfolio: <a href="https://unity.themaker.cyou/">unitythemaker.cyou</a><br />
+Portfolio: <a href="https://unity.themaker.cyou/">unity.themaker.cyou</a><br />
 E-Mail: unity.the.maker@gmail.com / unity@themaker.cyou<br/>
 Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
