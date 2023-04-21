@@ -18,19 +18,20 @@
 ### 📫 Reach me via:
 Portfolio: <a href="https://unity.themaker.dev/">unity.themaker.cyou</a><br />
 E-Mail: unity.the.maker@gmail.com / unity@themaker.cyou<br/>
-Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
-LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
 Digital Signature: <a href="https://github.com/unitythemaker.gpg">unitythemaker.gpg</a><br />
 <!-- Matrix: <a href="https://matrix.to/#/@themaker:unitythemaker.cyou">@themaker:unitythemaker.cyou</a><br /> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/unitythemaker" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unitythemaker" height="30" width="30" /> 
+  </a>
 <a href="https://linkedin.com/in/halil-tezcan-karabulut-276a841b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil-tezcan-karabulut-276a841b6" height="30" width="40" /></a>
 <a href="https://fiverr.com/unitythemaker" target="blank">
  <img align="center" src="https://user-images.githubusercontent.com/83316880/156583341-aad78cac-e099-49f6-bc65-6e2dfab8b654.png" alt="unitythemaker" height="30" width="30" /> 
   </a>
-<a href="https://twitter.com/unitythemaker" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unitythemaker" height="30" width="30" /> 
+<a href="https://instagram.com/unitythemaker" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unitythemaker" height="30" width="30" /> 
   </a>
 </p>
 
