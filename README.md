@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **about marketing**
 
-- 👨‍💻 All of my projects are available at [https://unity.themaker.cyou](https://unity.themaker.cyou)
+- 👨‍💻 All of my projects are available at [https://unity.themaker.dev](https://unity.themaker.dev)
 
 - 💬 Ask me about **Cloud, DevOps, Back-End, JavaScript...**
 
-- 📄 Know about my experiences [https://unity.themaker.cyou/resume.pdf](https://unity.themaker.cyou/resume.pdf)
+- 📄 Know about my experiences [https://unity.themaker.dev/resume.pdf](https://unity.themaker.dev/resume.pdf)
 
 - ⚡ Fun fact **I'm an organism that can turn pizza and cafeine into software.**
 
 ### 📫 Reach me via:
-Portfolio: <a href="https://unity.themaker.cyou/">unity.themaker.cyou</a><br />
+Portfolio: <a href="https://unity.themaker.dev/">unity.themaker.cyou</a><br />
 E-Mail: unity.the.maker@gmail.com / unity@themaker.cyou<br/>
 Instagram: <a href="https://www.instagram.com/unitythemaker/">@unitythemaker</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/halil-tezcan-karabulut-276a841b6/">halil-tezcan-karabulut-276a841b6</a><br />
