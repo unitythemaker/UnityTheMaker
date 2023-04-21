@@ -41,4 +41,4 @@ Digital Signature: <a href="https://github.com/unitythemaker.gpg">unitythemaker.
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=unitythemaker&amp;&amp;show_icons=true&amp;theme=radical" alt="unitythemaker" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
