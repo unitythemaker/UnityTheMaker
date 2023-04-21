@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil Tezcan "UnityTheMaker" KARABULUT</h1>
 <h3 align="center">A software developer from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
+<p align="center"><a href="https://www.buymeacoffee.com/unitythemaker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 
 - 🔭 I’m currently working on [Middlewar Cloud](https://www.middlewar.cloud) projects also freelancing.
 
@@ -41,5 +41,4 @@ Digital Signature: <a href="https://github.com/unitythemaker.gpg">unitythemaker.
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=unitythemaker&amp;&amp;show_icons=true&amp;theme=radical" alt="unitythemaker" /></p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/unitythemaker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
