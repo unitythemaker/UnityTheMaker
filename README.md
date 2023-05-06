@@ -38,8 +38,8 @@ Digital Signature: <a href="https://github.com/unitythemaker.gpg">unitythemaker.
 <h3 align="left">Languages and Tools:</h3>
 <p>I used to put sooo many things in here but forget about their icons. Just know that I know every single thing in that universe yet I am still learning!</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=unitythemaker&show_icons=true&locale=en&layout=compact&theme=radical" alt="unitythemaker" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitythemaker&layout=compact&theme=tokyonight&hide=html,scss,css" alt="unitythemaker" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=unitythemaker&amp;&amp;show_icons=true&amp;theme=radical" alt="unitythemaker" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=unitythemaker&count_private=true&show_icons=true&theme=tokyonight" alt="unitythemaker" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unitythemaker&label=Profile%20views&color=ff4100&style=flat" alt="unitythemaker" /> </p>
