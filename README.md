@@ -3,11 +3,9 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/unitythemaker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 
-- 🔭 I’m currently working on [Middlewar Cloud](https://www.middlewar.cloud) projects also freelancing.
+- 🔭 I’m currently working at [Defencemore](https://defencemore.com).
 
-- 🌱 I’m currently learning **about marketing**
-
-- 👨‍💻 All of my projects are available at [https://unity.themaker.dev](https://unity.themaker.dev)
+- 🌱 I’m currently learning **about time management**
 
 - 💬 Ask me about **Cloud, DevOps, Back-End, JavaScript...**
 
