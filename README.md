@@ -9,14 +9,14 @@
 
 - 💬 Ask me about **Cloud, DevOps, Back-End, JavaScript...**
 
-- 📄 Know about my experiences [https://unity.themaker.dev/resume.pdf](https://unity.themaker.dev/resume.pdf)
+<!-- - 📄 Know about my experiences [https://unity.themaker.dev/resume.pdf](https://unity.themaker.dev/resume.pdf) -->
 
 - ⚡ Fun fact **I'm an organism that can turn pizza and cafeine into software.**
 
 ### 📫 Reach me via:
-Portfolio: <a href="https://unity.themaker.dev/">unity.themaker.cyou</a><br />
-E-Mail: unity.the.maker@gmail.com / unity@themaker.cyou<br/>
-Digital Signature: <a href="https://github.com/unitythemaker.gpg">unitythemaker.gpg</a><br />
+<!-- Portfolio: <a href="https://unity.themaker.dev/">unity.themaker.cyou</a><br /> -->
+E-Mail: info@hlltzcnkb.com<br/>
+<!-- Digital Signature: <a href="https://github.com/unitythemaker.gpg">unitythemaker.gpg</a><br /> -->
 <!-- Matrix: <a href="https://matrix.to/#/@themaker:unitythemaker.cyou">@themaker:unitythemaker.cyou</a><br /> -->
 
 <h3 align="left">Connect with me:</h3>
