@@ -21,9 +21,6 @@ E-Mail: info@hlltzcnkb.com<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unitythemaker" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unitythemaker" height="30" width="30" /> 
-  </a>
 <a href="https://linkedin.com/in/halil-tezcan-karabulut-276a841b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil-tezcan-karabulut-276a841b6" height="30" width="40" /></a>
 <a href="https://fiverr.com/unitythemaker" target="blank">
  <img align="center" src="https://user-images.githubusercontent.com/83316880/156583341-aad78cac-e099-49f6-bc65-6e2dfab8b654.png" alt="unitythemaker" height="30" width="30" /> 
