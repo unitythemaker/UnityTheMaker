@@ -25,9 +25,6 @@ E-Mail: info@hlltzcnkb.com<br/>
 <a href="https://fiverr.com/unitythemaker" target="blank">
  <img align="center" src="https://user-images.githubusercontent.com/83316880/156583341-aad78cac-e099-49f6-bc65-6e2dfab8b654.png" alt="unitythemaker" height="30" width="30" /> 
   </a>
-<a href="https://instagram.com/unitythemaker" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unitythemaker" height="30" width="30" /> 
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
