@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Halil Tezcan "UnityTheMaker" KARABULUT</h1>
+<h1 align="center">Hi 👋, I'm Halil Tezcan KARABULUT</h1>
 <h3 align="center">A software developer from Turkey.</h3>
 
 <p align="center"><a href="https://www.buymeacoffee.com/unitythemaker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
